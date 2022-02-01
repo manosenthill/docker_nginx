@@ -14,4 +14,4 @@ CONTAINER ID        IMAGE               COMMAND                  CREATED        
 
 open browser and enter http://localhost:8080 which brings the page like below
 
-[img](.\doc\docker_nginx.png)
+![img](./doc/docker_nginx.png)
